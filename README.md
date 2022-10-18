@@ -1,1 +1,1 @@
-# Springboot API, JWT Auth, Vue 3 Client
+# Springboot API, simple Auth, Vue 3 Client
